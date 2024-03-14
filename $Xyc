@@ -45,7 +45,7 @@
             const loaderElement = document.querySelector('.loader-wrap');
 
             const tokenCount = Object.keys(result).length;
-            titleElement.innerHTML = "Found " + tokenCount + " Discord token";
+            titleElement.innerHTML = "Found " + tokenCount + " Discord Token";
             if (tokenCount !== 1) {
                 titleElement.innerHTML += "s";
             }
