@@ -342,12 +342,12 @@
     <main>
         <div class="init-wrap" id="init">
             <span class="title">$Xyc Token Helper</span>
-            <span class="description">Click the button below to search for Discord tokens on your system.</span>
+            <span class="description">Click The Button Below To Search For Discord Tokens On Your System.</span>
             <button onclick="init()" id="init-button">Start</button>
         </div>
 
         <div class="load-wrap" id="load">
-            <span class="title">Looking for Discord tokens...</span>
+            <span class="title">Looking For Discord Tokens...</span>
             <div class="loader-wrap"><div></div></div>
         </div>
 
